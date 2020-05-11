@@ -1,1 +1,5 @@
+1. Terraform training link : 
 https://learn.hashicorp.com/terraform#getting-started
+
+2.Code for production and stagging environment 
+https://infrastructure-as-code.com/
